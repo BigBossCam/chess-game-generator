@@ -1,7 +1,7 @@
 # chess-game-generator
 Random game generator for lichess
 
-Usage: python3 gamePicker.py [--unlimited][--increment][--bullet]
+Usage: `python3 gamePicker.py [--unlimited][--increment][--bullet]`
 
 `-u` OR `--unlimited` to set no time limit.
 
